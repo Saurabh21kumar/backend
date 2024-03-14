@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "First bankend code",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "aur",
+    "first",
+    "code"
+  ],
+  "author": "Saurabh Kumar",
+  "license": "ISC"
+}
